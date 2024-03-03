@@ -19,7 +19,7 @@ function App() {
   return (
     <>
       <div className="container w-25 p-3 d-flex flex-column gap-3 shadow rounded-3 bg-dark-subtle">
-
+        <legend className=''>useMemo Hook Example</legend>
         <input
           type="number"
           className='form-control'
